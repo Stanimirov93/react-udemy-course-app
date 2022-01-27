@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-udemy-course-app/static/css/main.073c9b0a.css",
-    "main.js": "/react-udemy-course-app/static/js/main.53c3683e.js",
-    "static/js/787.ded07d7d.chunk.js": "/react-udemy-course-app/static/js/787.ded07d7d.chunk.js",
-    "static/media/logo.svg": "/react-udemy-course-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-udemy-course-app/static/css/main.5dc86ce3.css",
+    "main.js": "/react-udemy-course-app/static/js/main.e420798c.js",
     "index.html": "/react-udemy-course-app/index.html",
-    "main.073c9b0a.css.map": "/react-udemy-course-app/static/css/main.073c9b0a.css.map",
-    "main.53c3683e.js.map": "/react-udemy-course-app/static/js/main.53c3683e.js.map",
-    "787.ded07d7d.chunk.js.map": "/react-udemy-course-app/static/js/787.ded07d7d.chunk.js.map"
+    "main.5dc86ce3.css.map": "/react-udemy-course-app/static/css/main.5dc86ce3.css.map",
+    "main.e420798c.js.map": "/react-udemy-course-app/static/js/main.e420798c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.53c3683e.js"
+    "static/css/main.5dc86ce3.css",
+    "static/js/main.e420798c.js"
   ]
 }
