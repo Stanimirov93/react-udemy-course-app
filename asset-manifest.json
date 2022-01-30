@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-udemy-course-app/static/css/main.5dc86ce3.css",
-    "main.js": "/react-udemy-course-app/static/js/main.e420798c.js",
+    "main.css": "/react-udemy-course-app/static/css/main.2aa36167.css",
+    "main.js": "/react-udemy-course-app/static/js/main.a6166d15.js",
     "index.html": "/react-udemy-course-app/index.html",
-    "main.5dc86ce3.css.map": "/react-udemy-course-app/static/css/main.5dc86ce3.css.map",
-    "main.e420798c.js.map": "/react-udemy-course-app/static/js/main.e420798c.js.map"
+    "main.2aa36167.css.map": "/react-udemy-course-app/static/css/main.2aa36167.css.map",
+    "main.a6166d15.js.map": "/react-udemy-course-app/static/js/main.a6166d15.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dc86ce3.css",
-    "static/js/main.e420798c.js"
+    "static/css/main.2aa36167.css",
+    "static/js/main.a6166d15.js"
   ]
 }
